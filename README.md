@@ -6,6 +6,7 @@ A script that generates a Slack-compatible F1 topic based on current F1 calendar
 > This codebase is almost entirely **AI generated**
 > 
 > This was a _"vibe coding"_ experiment using `claude-3.7-sonnet` with thinking, and is definitely full of garbage.
+> It also took me longer to vibe this than it did to read the API docs and just write it.
 > It should **NOT** be used as a reference and I have [licensed it as such](#license) because nobody should legally be allowed to adapt this code.
 
 It might actually work though...? Feel free to try _using_ the tool. No guarantees.
