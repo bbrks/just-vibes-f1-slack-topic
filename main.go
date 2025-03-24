@@ -536,7 +536,7 @@ func SlackTopic() string {
 	}
 
 	// Add fantasy code
-	sb.WriteString(" // Fantasy: `C14SOD0WQ01`")
+	sb.WriteString(" // Fantasy: `thanksai`")
 
 	// Get the final topic string
 	topic := sb.String()
