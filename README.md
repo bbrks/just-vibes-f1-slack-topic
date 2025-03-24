@@ -2,7 +2,8 @@
 
 A script that generates a Slack-compatible F1 topic based on current F1 calendar and championship results.
 
-> [!WARNING] This codebase is almost entirely **AI generated**
+> [!Warning]
+> This codebase is almost entirely **AI generated**
 > 
 > This was a _"vibe coding"_ experiment using `claude-3.7-sonnet` with thinking, and is definitely full of garbage.
 > It should **NOT** be used as a reference and I have [licensed it as such](#license) because nobody should legally be allowed to adapt this code.
@@ -58,7 +59,7 @@ just-vibes-f1-slack-topic -slack -quiet
 
 # LICENSE CC BY-NC-ND 4.0
 
-> ![NOTE]
+> [!Note]
 > This means you're _probably_ not legally allowed to do what you want! This is by design. See the warning.
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
